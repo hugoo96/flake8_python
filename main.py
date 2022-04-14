@@ -7,5 +7,3 @@ fila.atualiza_fila()
 
 print(fila.chama_cliente(10))
 print(fila.chama_cliente(5))
-
-print(fila.estatistica('14/04/2022', 197, 'detail'))
